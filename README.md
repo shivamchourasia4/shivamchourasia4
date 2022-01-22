@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on Android Development 📱;
-- 🌱 I’m currently learning Solidity 🚀; 
+- 🌱 I’m currently learning Kotlin 🚀; 
 - 🤔 I’m looking for help with System Design and Design Pattern 🧐;
 - 💬 Ask me about Movies 🎬, Music 🎵 & Football ⚽;
 - ⚡️ Fun-Fact: We are all made of stardust 🌟;

@@ -2,7 +2,7 @@
 
 <!-- [![GitHub shivamchourasia4](https://img.shields.io/github/followers/shivamchourasia4?label=follow&style=social)](https://github.com/shivamchourasia4) -->
 [![Linkedin: Shivam Chourasia](https://img.shields.io/badge/-Shivam%20Chourasia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamchourasia/)](https://www.linkedin.com/in/shivamchourasia/)
-[![Twitter Badge](https://img.shields.io/badge/-@shivamly-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivamly)](https://twitter.com/shivamly)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@shivamly-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivamly)](https://twitter.com/shivamly) --
 <!-- [![Twitter: Shivam Chourasia](https://img.shields.io/twitter/follow/shivamly?style=social)](https://twitter.com/shivamly) -->
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivamchourasia4&left_color=gray&right_color=blue) -->
 
